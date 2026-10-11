@@ -1,0 +1,224 @@
+[
+  {
+    "rfc": 9293,
+    "topic": "transport",
+    "role": "current",
+    "label": "TCP"
+  },
+  {
+    "rfc": 793,
+    "topic": "transport",
+    "role": "legacy",
+    "label": "Original TCP (obsoleted by 9293)"
+  },
+  {
+    "rfc": 768,
+    "topic": "transport",
+    "role": "current",
+    "label": "UDP"
+  },
+  {
+    "rfc": 5681,
+    "topic": "transport",
+    "role": "current",
+    "label": "TCP congestion control"
+  },
+  {
+    "rfc": 9438,
+    "topic": "transport",
+    "role": "current",
+    "label": "CUBIC congestion control"
+  },
+  {
+    "rfc": 6298,
+    "topic": "transport",
+    "role": "current",
+    "label": "TCP retransmission timer"
+  },
+  {
+    "rfc": 7323,
+    "topic": "transport",
+    "role": "current",
+    "label": "TCP extensions: window scale, timestamps"
+  },
+  {
+    "rfc": 2018,
+    "topic": "transport",
+    "role": "current",
+    "label": "TCP selective acknowledgment (SACK)"
+  },
+  {
+    "rfc": 3168,
+    "topic": "transport",
+    "role": "current",
+    "label": "Explicit Congestion Notification (ECN)"
+  },
+  {
+    "rfc": 791,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "IPv4"
+  },
+  {
+    "rfc": 792,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "ICMP"
+  },
+  {
+    "rfc": 8200,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "IPv6"
+  },
+  {
+    "rfc": 4443,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "ICMPv6"
+  },
+  {
+    "rfc": 1191,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "Path MTU discovery (IPv4)"
+  },
+  {
+    "rfc": 8201,
+    "topic": "ip_layer",
+    "role": "current",
+    "label": "Path MTU discovery (IPv6)"
+  },
+  {
+    "rfc": 9110,
+    "topic": "http",
+    "role": "current",
+    "label": "HTTP semantics"
+  },
+  {
+    "rfc": 9111,
+    "topic": "http",
+    "role": "current",
+    "label": "HTTP caching"
+  },
+  {
+    "rfc": 9112,
+    "topic": "http",
+    "role": "current",
+    "label": "HTTP/1.1"
+  },
+  {
+    "rfc": 9113,
+    "topic": "http",
+    "role": "current",
+    "label": "HTTP/2"
+  },
+  {
+    "rfc": 9114,
+    "topic": "http",
+    "role": "current",
+    "label": "HTTP/3"
+  },
+  {
+    "rfc": 7230,
+    "topic": "http",
+    "role": "legacy",
+    "label": "HTTP/1.1 message syntax (obsoleted)"
+  },
+  {
+    "rfc": 7231,
+    "topic": "http",
+    "role": "legacy",
+    "label": "HTTP/1.1 semantics (obsoleted)"
+  },
+  {
+    "rfc": 6455,
+    "topic": "http",
+    "role": "current",
+    "label": "WebSocket"
+  },
+  {
+    "rfc": 3986,
+    "topic": "http",
+    "role": "current",
+    "label": "URI syntax"
+  },
+  {
+    "rfc": 9000,
+    "topic": "quic",
+    "role": "current",
+    "label": "QUIC transport"
+  },
+  {
+    "rfc": 9001,
+    "topic": "quic",
+    "role": "current",
+    "label": "Using TLS to secure QUIC"
+  },
+  {
+    "rfc": 9002,
+    "topic": "quic",
+    "role": "current",
+    "label": "QUIC loss detection and congestion control"
+  },
+  {
+    "rfc": 8446,
+    "topic": "security",
+    "role": "current",
+    "label": "TLS 1.3"
+  },
+  {
+    "rfc": 5246,
+    "topic": "security",
+    "role": "legacy",
+    "label": "TLS 1.2"
+  },
+  {
+    "rfc": 6749,
+    "topic": "security",
+    "role": "current",
+    "label": "OAuth 2.0"
+  },
+  {
+    "rfc": 7519,
+    "topic": "security",
+    "role": "current",
+    "label": "JSON Web Token (JWT)"
+  },
+  {
+    "rfc": 7636,
+    "topic": "security",
+    "role": "current",
+    "label": "PKCE for OAuth"
+  },
+  {
+    "rfc": 1034,
+    "topic": "naming_and_infra",
+    "role": "current",
+    "label": "DNS concepts"
+  },
+  {
+    "rfc": 1035,
+    "topic": "naming_and_infra",
+    "role": "current",
+    "label": "DNS implementation"
+  },
+  {
+    "rfc": 2131,
+    "topic": "naming_and_infra",
+    "role": "current",
+    "label": "DHCP"
+  },
+  {
+    "rfc": 5905,
+    "topic": "naming_and_infra",
+    "role": "current",
+    "label": "NTPv4"
+  },
+  {
+    "rfc": 8259,
+    "topic": "naming_and_infra",
+    "role": "current",
+    "label": "JSON"
+  }
+]
